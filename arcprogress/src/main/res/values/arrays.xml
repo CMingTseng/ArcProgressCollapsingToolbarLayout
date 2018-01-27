@@ -1,0 +1,11 @@
+<resources>
+    <integer-array name="first_stage_colors">
+        <item>@color/moore_bu02</item>
+        <item>@color/moore_bu01</item>
+        <item>@color/moore_gn01</item>
+    </integer-array>
+    <integer-array name="second_stage_colors">
+        <item>@color/moore_bu02</item>
+        <item>@color/moore_pk01</item>
+    </integer-array>
+</resources>

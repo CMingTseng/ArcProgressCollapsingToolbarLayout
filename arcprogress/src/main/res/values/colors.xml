@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<editor-fold desc="20170801_new ">-->
+    <color name="moore_wt00">#FFFFFFFF</color>
+    <color name="moore_wt01">#00FFFFFF</color>
+    <color name="moore_wt02">#73FFFFFF</color>
+    <color name="moore_wt03">#4DFFFFFF</color>
+    <color name="moore_wt04">#FFFFFFFF</color>
+    <color name="moore_gy01">#EBEFF4</color>
+    <color name="moore_gy02">#DFDFDF</color>
+    <color name="moore_gy03">#919191</color>
+    <color name="moore_gy04">#676767</color>
+    <color name="moore_bk01">#373737</color>
+    <color name="moore_bk02">#000000</color>
+    <color name="moore_bk03">#65000000</color>
+    <color name="moore_bk04">#B3FFFFFF</color>
+    <color name="moore_bk05">#4D000000</color>
+    <color name="moore_gn01">#9AECE5</color>
+    <color name="moore_gn02">#50D2C2</color>
+    <color name="moore_bu01">#85d3ff</color>
+    <color name="moore_bu02">#85C3FF</color>
+    <color name="moore_bu03">#7CB8E6</color>
+    <color name="moore_pk01">#FF93DF</color>
+    <color name="moore_rd01">#FF463D</color>
+    <!--</editor-fold>-->
+</resources>

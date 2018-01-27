@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcProgress">
+        <attr name="arc_progress" format="integer" />
+        <attr name="arc_angle" format="float" />
+        <attr name="arc_stroke_width" format="dimension" />
+        <attr name="arc_max" format="integer" />
+
+        <attr name="arc_unfinished_color" format="color" />
+        <attr name="arc_finished_color" format="color" />
+
+        <attr name="arc_text_size" format="dimension" />
+        <attr name="arc_text_color" format="color" />
+
+        <attr name="arc_suffix_text" format="string" />
+        <attr name="arc_suffix_text_size" format="dimension" />
+        <attr name="arc_suffix_text_padding" format="dimension" />
+
+        <attr name="arc_bottom_text" format="string" />
+        <attr name="arc_bottom_text_size" format="dimension" />
+        <!---->
+
+        <attr name="arc_back_color" format="color" />
+        <attr name="hint_unit_text_color" format="color" />
+        <attr name="hint_title_text_color" format="color" />
+        <attr name="hint_text_color" format="color" />
+
+        <attr name="master_degree_color" format="color|reference" />
+        <attr name="slave_degree_color" format="color|reference" />
+        <attr name="master_finish_gradient_color" format="reference|color" />
+        <attr name="slave_finish_gradient_color" format="reference|color" />
+        <attr name="unfinish_gradient_color" format="reference|color" />
+        <attr name="stage_change_threshold" format="fraction" />
+
+        <attr name="back_width" format="dimension" />
+        <attr name="front_width" format="dimension" />
+        <attr name="is_need_title" format="boolean" />
+        <attr name="is_need_content" format="boolean" />
+        <attr name="is_need_unit" format="boolean" />
+        <attr name="is_need_dial" format="boolean" />
+        <attr name="string_title" format="string" />
+        <attr name="string_unit" format="string" />
+        <attr name="arc_engle" format="integer" />
+        <attr name="arc_diameter" format="integer" />
+
+        <attr name="rotate_engle" format="integer" />
+        <attr name="current_value" format="float" />
+        <attr name="max" format="float" />
+        <attr name="min" format="float" />
+    </declare-styleable>
+
+</resources>
